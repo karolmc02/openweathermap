@@ -1,6 +1,6 @@
 {
   "domain": "openweathermap",
-  "name": "OpenWeatherMap",
+  "name": "OpenWeatherMap with zone",
   "codeowners": [
     "@fabaff",
     "@freekode",
